@@ -30,3 +30,4 @@
 
 # Any third-party files included in this repository remain subject to their own license terms.
 
+# About this software - This is a small SRS style japanese drill program. It stores its data in individual resource only DLL files which I have put a sample VS solution. So you can (if you know a bit of basic WIN32 and visual studio) add words and kanji to it yourself.
